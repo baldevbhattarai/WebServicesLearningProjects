@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csp
 		{3A74E50C-4098-4FD2-ABB0-3E01DFAF50D8} = {3A74E50C-4098-4FD2-ABB0-3E01DFAF50D8}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingWebServicesFromJavaScriptUsingAjax", "CallingWebServicesFromJavaScriptUsingAjax\CallingWebServicesFromJavaScriptUsingAjax.csproj", "{B815761E-C25E-48C4-ADD9-B5701AA6E4EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{101136FE-7876-488D-B935-E50BC4B2C290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{101136FE-7876-488D-B935-E50BC4B2C290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{101136FE-7876-488D-B935-E50BC4B2C290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B815761E-C25E-48C4-ADD9-B5701AA6E4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B815761E-C25E-48C4-ADD9-B5701AA6E4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B815761E-C25E-48C4-ADD9-B5701AA6E4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B815761E-C25E-48C4-ADD9-B5701AA6E4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
